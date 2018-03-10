@@ -1,0 +1,8 @@
+
+
+#gemfile
+source "http://rubygems.org"
+
+gem "sinatra-activerecord" #allows to interact with ruby in the database
+gem "rake"  #allows to create database command = rake db:create
+gem "sqlite3"
